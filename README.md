@@ -77,13 +77,13 @@ refer <span style="color:red;">env.example</span>
 .env.production
 ```
 
-### 2. Set up the database
+### 3. Set up the database
 
 The boilerplate uses [MongoDB with Mongoose](https://mongoosejs.com/).
 
 and update the db URI in the env file
 
-### 3. Start the server
+### 4. Start the server
 
 Launch your server with this command:
 
